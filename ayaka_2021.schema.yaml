@@ -1,0 +1,97 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: ayaka_2021
+  name: 綾香中古拼音
+  version: "2021.03.26"
+  author:
+    - polyhedron <biopolyhedron@gmail.com>
+    - Ayaka Mikazuki <ayaka@mail.shn.hk>
+  description: |-
+    中古漢語拼音方案：綾香中古拼音
+  dependencies:
+    - luna_pinyin
+    # - ayaka_2021_unspaced
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: half_shape
+    states: [ 全角, 半角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@luna_pinyin
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - script_translator@luna_pinyin
+  filters:
+    - simplifier
+    - uniquifier
+    - reverse_lookup_filter@ayaka_2021_reverse_lookup
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - "xform/'//"
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([^aeiouyw]+).+$/$1/
+    - abbrev/[xh]$//
+
+translator:
+  dictionary: ayaka_2021
+  spelling_hints: 8
+  comment_format:
+    - "xform/$/\u200b/" # 永遠顯示拼音
+
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: ";"
+  tips: 〔普通話〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+ayaka_2021_reverse_lookup:
+  tags: [ luna_pinyin ]
+  overwrite_comment: false
+  dictionary: ayaka_2021  # ayaka_2021_unspaced
+  comment_format:
+    - xform/=/ /
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    luna_pinyin: "`[a-z]*;?$"
