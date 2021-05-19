@@ -35,6 +35,7 @@ use_preset_vocabulary: true
 一塊	vit kuwih
 一壁	vit bek
 一夕	vit ssiak
+一如	vit gniiw
 一字	vit zziih
 一定	vit ddennh
 一家	vit gra
@@ -63,11 +64,14 @@ use_preset_vocabulary: true
 一次	vit cih
 一氣	vit kiiih
 一流	vit liiu
+一生	vit sriann
 一甲	vit grap
 一直	vit ddiik
 一眼	vit nnrenx
 一睹	vit dox
 一瞬	vit xynh
+一種	vit jiionnx
+一空	vit kunn
 一等	vit dwnnx
 一級	vit grip
 一統	vit tonnh
@@ -80,6 +84,7 @@ use_preset_vocabulary: true
 一號	vit hhauh
 一覽	vit lamx
 一言	vit nniion
+一說	vit xyet
 一起	vit kiix
 一路	vit loh
 一身	vit xin
@@ -95,6 +100,10 @@ use_preset_vocabulary: true
 一體	vit teix
 一點	vit demx
 一黨	vit dannx
+一齊	vit zzei
+丁卯	denn mraux
+丁酉	denn iiux
+丁香	denn hiiann
 七十	cit xxip
 七喜	cit hiix
 七堵	cit dox
@@ -110,14 +119,21 @@ use_preset_vocabulary: true
 七美	cit mrix
 七聲	cit xiann
 七股	cit gox
+七魄	cit prak
 丈人	ddiiannx gnin
+丈夫	ddiiannx biio
 丈母	ddiiannx mwux
+三五	sam nnox
 三代	sam ddwih
 三光	sam guann
+三兩	sam liiannx
 三十	sam xxip
 三國	sam guwk
 三峽	sam hhrep
 三弦	sam hhen
+三教	sam grauh
+三春	sam qyn
+三更	sam grann
 三次	sam cih
 三流	sam liiu
 三級	sam grip
@@ -127,31 +143,49 @@ use_preset_vocabulary: true
 三項	sam hhronnx
 三鮮	sam sien
 上代	xxiiannh ddwih
+上位	xxiiannx ryh
 上來	xxiiannx lwi
 上個	xxiiannh gah
 上前	xxiiannx zzen
 上半	xxiiannh banh
 上去	xxiiannx kiiwh
 上古	xxiiannh gox
+上司	xxiiannh sii
 上周	xxiiannh jiiu
 上回	xxiiannh hhuwi
 上坡	xxiiannx pa
+上場	xxiiannx ddiiann
+上墳	xxiiannx bbiin
+上好	xxiiannh haux
+上學	xxiiannx hhrok
+上家	xxiiannh gra
+上將	xxiiannh ziiannh
 上層	xxiiannh zzwnn
 上山	xxiiannx sren
 上岸	xxiiannx nnanh
+上市	xxiiannx xxiix
 上年	xxiiannh nen
+上床	xxiiannx zzriiann
+上座	xxiiannh zzuah
+上房	xxiiannh bbiiann
 上文	xxiiannh miin
+上月	xxiiannh nnuuot
 上樓	xxiiannx lwu
+上次	xxiiannh cih
 上流	xxiiannh liiu
+上游	xxiiannh iiu
 上班	xxiiannx bran
 上界	xxiiannh greih
 上皮	xxiiannh bbrie
 上瞼	xxiiannh griemx
 上空	xxiiannh kunn
+上第	xxiiannh ddeih
 上等	xxiiannh dwnnx
 上級	xxiiannh grip
 上線	xxiiannx sienh
+上船	xxiiannx jjyen
 上色	xxiiannh sriik
+上衣	xxiiannh viii
 上衫	xxiiannh sram
 上裝	xxiiannh zriiann
 上課	xxiiannx kuah
@@ -160,6 +194,7 @@ use_preset_vocabulary: true
 上輩	xxiiannh bwih
 上邊	xxiiannh ben
 上鉤	xxiiannx gwu
+上門	xxiiannx mwn
 上陣	xxiiannx ddinh
 上面	xxiiannh mienh
 上頭	xxiiannh ddwu
@@ -172,6 +207,13 @@ use_preset_vocabulary: true
 下層	hhrax zzwnn
 下屬	hhrax xxiiok
 下巴	hhrax bra
+下方	hhrax biiann
+下旬	hhrax ssyn
+下賤	hhrax zzienh
+下身	hhrax xin
+下邊	hhrax ben
+下面	hhrax mienh
+下體	hhrax teix
 丐幫	gaih bann
 丑時	tiiux xxii
 丑牛	tiiux nniiu
@@ -317,7 +359,7 @@ use_preset_vocabulary: true
 主持	jiiox ddii
 主掌	jiiox jiiannx
 主播	jiiox bah
-主教	jiiox grau
+主教	jiiox grauh
 主族	jiiox zzuk
 主日	jiiox gnit
 主旨	jiiox jix
@@ -533,6 +575,7 @@ use_preset_vocabulary: true
 互換	hhoh hhuanh
 互文	hhoh miin
 互斥	hhoh qiak
+互生	hhoh sriann
 互異	hhoh iih
 互粉	hhoh biinx
 互素	hhoh soh
@@ -765,6 +808,7 @@ use_preset_vocabulary: true
 人物	gnin miit
 人犯	gnin bbiiomx
 人猿	gnin ruuon
+人生	gnin sriann
 人禍	gnin hhuax
 人精	gnin ziann
 人緣	gnin yen
@@ -823,6 +867,7 @@ use_preset_vocabulary: true
 今村	grim cuwn
 今次	grim cih
 今歲	grim syeih
+今生	grim sriann
 今譯	grim iak
 今音	grim vrim
 介乎	greih hho
@@ -1118,7 +1163,7 @@ use_preset_vocabulary: true
 佛岡	bbiit gann
 佛心	bbiit sim
 佛性	bbiit siannh
-佛教	bbiit grau
+佛教	bbiit grauh
 佛書	bbiit xiiw
 佛法	bbiit biiop
 佛牙	bbiit nnra
@@ -1165,6 +1210,7 @@ use_preset_vocabulary: true
 來潮	lwi ddieu
 來火	lwi huax
 來犯	lwi bbiiomx
+來生	lwi sriann
 來由	lwi iiu
 來神	lwi jjin
 來義	lwi nnrieh
@@ -1333,7 +1379,7 @@ use_preset_vocabulary: true
 信息	sinh siik
 信意	sinh viih
 信手	sinh xiiux
-信教	sinh grau
+信教	sinh grauh
 信服	sinh bbiiuk
 信札	sinh zret
 信條	sinh ddeu
@@ -1591,6 +1637,7 @@ use_preset_vocabulary: true
 催情	cuwi zziann
 催淚	cuwi lyh
 催熟	cuwi xxiiuk
+催生	cuwi sriann
 催眠	cuwi men
 催肥	cuwi bbiii
 催膘	cuwi pieux
@@ -1608,6 +1655,7 @@ use_preset_vocabulary: true
 傲立	nnauh lip
 傲自	nnauh zzih
 傲骨	nnauh guwt
+傳教	ddyen grauh
 傾佩	kyann bbwih
 傾側	kyann zriik
 傾動	kyann ddunnx
@@ -1685,7 +1733,7 @@ use_preset_vocabulary: true
 儒士	gniio zzriix
 儒學	gniio hhrok
 儒家	gniio gra
-儒教	gniio grau
+儒教	gniio grauh
 儒者	gniio jiax
 儒艮	gniio gwnh
 儒雅	gniio nnrax
@@ -1699,6 +1747,7 @@ use_preset_vocabulary: true
 優柔	viiu gniiu
 優步	viiu bboh
 優渥	viiu vrok
+優生	viiu sriann
 優異	viiu iih
 優盤	viiu bban
 優秀	viiu siiuh
@@ -1876,7 +1925,7 @@ use_preset_vocabulary: true
 入微	gnip miii
 入息	gnip siik
 入手	gnip xiiux
-入教	gnip grau
+入教	gnip grauh
 入時	gnip xxii
 入會	gnip hhuaih
 入月	gnip nnuuot
@@ -2111,6 +2160,7 @@ use_preset_vocabulary: true
 共同	ggiionnh ddunn
 共商	ggiionnh xiiann
 共存	ggiionnh zzuwn
+共生	ggiionnh sriann
 共用	ggiionnh iionnh
 共管	ggiionnh guanx
 共謀	ggiionnh miiu
@@ -2176,6 +2226,7 @@ use_preset_vocabulary: true
 再版	zwih branx
 再犯	zwih bbiiomx
 再現	zwih hhenh
+再生	zwih sriann
 再發	zwih biiot
 再者	zwih jiax
 再育	zwih iiuk
@@ -2428,6 +2479,7 @@ use_preset_vocabulary: true
 初步	criiw bboh
 初潮	criiw ddieu
 初犯	criiw bbiiomx
+初生	criiw sriann
 初秋	criiw ciiu
 初等	criiw dwnnx
 初級	criiw grip
@@ -2807,7 +2859,6 @@ use_preset_vocabulary: true
 助力	zzriiwh liik
 助威	zzriiwh vuui
 助手	zzriiwh xiiux
-助教	zzriiwh grau
 助理	zzriiwh liix
 助益	zzriiwh viak
 助詞	zzriiwh ssii
@@ -2861,7 +2912,6 @@ use_preset_vocabulary: true
 勒緊	lwk ginx
 勒逼	lwk biik
 勒馬	lwk mrax
-勒龐	lwk bbronn
 動亂	ddunnx luanh
 動人	ddunnx gnin
 動力	ddunnx liik
@@ -2936,7 +2986,6 @@ use_preset_vocabulary: true
 勸導	kuuonh ddauh
 勸慰	kuuonh vuuih
 勸戒	kuuonh greih
-勸教	kuuonh grau
 勸服	kuuonh bbiiuk
 勸架	kuuonh grah
 勸誘	kuuonh iiux
@@ -3459,7 +3508,6 @@ use_preset_vocabulary: true
 受持	xxiiux ddii
 受挫	xxiiux zuah
 受損	xxiiux suwnx
-受教	xxiiux grau
 受暑	xxiiux xiiwx
 受業	xxiiux nniiop
 受權	xxiiux ggryen
@@ -3493,7 +3541,6 @@ use_preset_vocabulary: true
 叛匪	bbanh biiix
 叛國	bbanh guwk
 叛徒	bbanh ddo
-叛教	bbanh grau
 叛變	bbanh brienh
 叛賊	bbanh zzwk
 叛賣	bbanh mreh
@@ -4468,7 +4515,7 @@ use_preset_vocabulary: true
 回拜	hhuwi breih
 回採	hhuwi cwix
 回擊	hhuwi gek
-回教	hhuwi grau
+回教	hhuwi grauh
 回敬	hhuwi griannh
 回文	hhuwi miin
 回族	hhuwi zzuk
@@ -4586,7 +4633,7 @@ use_preset_vocabulary: true
 國手	guwk xiiux
 國技	guwk ggriex
 國政	guwk jiannh
-國教	guwk grau
+國教	guwk grauh
 國族	guwk zzuk
 國旗	guwk ggii
 國書	guwk xiiw
@@ -4684,6 +4731,7 @@ use_preset_vocabulary: true
 團購	dduan gwuh
 團隊	dduan dduwih
 團體	dduan teix
+在教	zzwix grauh
 地上	ddih xxiiannh
 地主	ddih jiiox
 地位	ddih ryh
@@ -4875,7 +4923,6 @@ use_preset_vocabulary: true
 執拾	jip xxip
 執掌	jip jiiannx
 執政	jip jiannh
-執教	jip grau
 執業	jip nniiop
 執法	jip biiop
 執照	jip jieuh
@@ -5243,7 +5290,6 @@ use_preset_vocabulary: true
 外手	nnuaih xiiux
 外掛	nnuaih grueh
 外插	nnuaih crep
-外教	nnuaih grau
 外敷	nnuaih piio
 外文	nnuaih miin
 外星	nnuaih senn
@@ -5253,6 +5299,7 @@ use_preset_vocabulary: true
 外海	nnuaih hwix
 外源	nnuaih nnuuon
 外牆	nnuaih zziiann
+外甥	nnuaih sriann
 外用	nnuaih iionnh
 外界	nnuaih greih
 外皮	nnuaih bbrie
@@ -5440,6 +5487,7 @@ use_preset_vocabulary: true
 天理	ten liix
 天璇	ten ssyen
 天璣	ten giii
+天生	ten sriann
 天界	ten greih
 天癸	ten gyx
 天皇	ten hhuann
@@ -5919,13 +5967,18 @@ use_preset_vocabulary: true
 子集	ziix zzip
 子音	ziix vrim
 子鼠	ziix xiiwx
+孑孑	griet griet
+孑孓	griet giionnx
+孑然	griet gnien
+孑立	griet lip
+孑身	griet xin
 孔丘	kunnx kiiu
 孔子	kunnx ziix
 孔孟	kunnx mrannh
 孔廟	kunnx mrieuh
 孔徑	kunnx gennh
 孔德	kunnx dwk
-孔教	kunnx grau
+孔教	kunnx grauh
 孔明	kunnx mriann
 孔東	kunnx dunn
 孔林	kunnx lim
@@ -6019,6 +6072,7 @@ use_preset_vocabulary: true
 孤傲	go nnauh
 孤孀	go sriiann
 孤子	go ziix
+孤孑	go griet
 孤寂	go zzek
 孤寒	go hhan
 孤寡	go gruax
@@ -6145,6 +6199,7 @@ use_preset_vocabulary: true
 安然	van gnien
 安營	van yann
 安瓶	van bbenn
+安生	van sriann
 安眠	van men
 安神	van jjin
 安祥	van ssiiann
@@ -6209,7 +6264,7 @@ use_preset_vocabulary: true
 宗室	zonn xit
 宗師	zonn sri
 宗廟	zonn mrieuh
-宗教	zonn grau
+宗教	zonn grauh
 宗族	zonn zzuk
 宗旨	zonn jix
 宗派	zonn preh
@@ -6295,7 +6350,7 @@ use_preset_vocabulary: true
 宣恩	syen vwn
 宣戰	syen jienh
 宣揚	syen iiann
-宣教	syen grau
+宣教	syen grauh
 宣洩	syen ieih
 宣漢	syen hanh
 宣紙	syen jiex
@@ -6373,7 +6428,6 @@ use_preset_vocabulary: true
 家庭	gra ddenn
 家慈	gra zzii
 家政	gra jiannh
-家教	gra grau
 家族	gra zzuk
 家景	gra griannx
 家業	gra nniiop
@@ -6426,6 +6480,7 @@ use_preset_vocabulary: true
 寄存	grieh zzuwn
 寄懷	grieh hhruei
 寄母	grieh mwux
+寄生	grieh sriann
 寄發	grieh biiot
 寄籍	grieh zziak
 寄託	grieh tak
@@ -6450,7 +6505,7 @@ use_preset_vocabulary: true
 密排	mrit bbrei
 密探	mrit twm
 密接	mrit ziep
-密教	mrit grau
+密教	mrit grauh
 密文	mrit miin
 密斯	mrit sie
 密林	mrit lim
@@ -6627,6 +6682,7 @@ use_preset_vocabulary: true
 寫手	siax xiiux
 寫法	siax biiop
 寫照	siax jieuh
+寫生	siax sriann
 寬亮	kuan liiannh
 寬免	kuan mrienx
 寬口	kuan kwux
@@ -7057,6 +7113,7 @@ use_preset_vocabulary: true
 尾流	miiix liiu
 尾燈	miiix dwnn
 尾牙	miiix nnra
+尾生	miiix sriann
 尾礦	miiix gruannx
 尾翼	miiix iik
 尾聲	miiix xiann
@@ -7512,6 +7569,7 @@ use_preset_vocabulary: true
 師尊	sri zuwn
 師徒	sri ddo
 師母	sri mwux
+師生	sri sriann
 師範	sri bbiiomx
 師表	sri brieux
 師資	sri zi
@@ -7601,7 +7659,6 @@ use_preset_vocabulary: true
 幫廚	bann ddiio
 幫忙	bann mann
 幫手	bann xiiux
-幫教	bann grau
 幫派	bann preh
 幫浦	bann pox
 幫腔	bann kronn
@@ -7687,7 +7744,6 @@ use_preset_vocabulary: true
 幼妹	viuh mwih
 幼小	viuh sieux
 幼年	viuh nen
-幼教	viuh grau
 幼時	viuh xxii
 幼獸	viuh xiiuh
 幼稚	viuh ddih
@@ -8191,6 +8247,7 @@ use_preset_vocabulary: true
 往昔	ruuannx siak
 往時	ruuannx xxii
 往歲	ruuannx syeih
+往生	ruuannx sriann
 往程	ruuannx ddiann
 往跡	ruuannx ziak
 往返	ruuannx biionx
@@ -9255,7 +9312,6 @@ use_preset_vocabulary: true
 成才	xxiann zzwi
 成批	xxiann pei
 成效	xxiann hhrauh
-成教	xxiann grau
 成文	xxiann miin
 成日	xxiann gnit
 成書	xxiann xiiw
@@ -9378,6 +9434,7 @@ use_preset_vocabulary: true
 所指	sriiwx jix
 所有	sriiwx riiux
 所為	sriiwx rye
+所生	sriiwx sriann
 所知	sriiwx die
 所致	sriiwx dih
 所謂	sriiwx ruuih
@@ -9897,7 +9954,6 @@ use_preset_vocabulary: true
 指尖	jix ziem
 指授	jix xxiiuh
 指揮	jix huui
-指教	jix grau
 指明	jix mriann
 指板	jix branx
 指模	jix mo
@@ -9971,6 +10027,7 @@ use_preset_vocabulary: true
 捐款	yen kuanx
 捐物	yen miit
 捐班	yen bran
+捐生	yen sriann
 捐稅	yen xyeih
 捐給	yen grip
 捐血	yen huet
@@ -10071,6 +10128,7 @@ use_preset_vocabulary: true
 排演	bbrei ienx
 排版	bbrei branx
 排球	bbrei ggiiu
+排笙	bbrei sriann
 排簫	bbrei seu
 排練	bbrei lenh
 排翅	bbrei xieh
@@ -10536,7 +10594,6 @@ use_preset_vocabulary: true
 支承	jie xxiinn
 支招	jie jieu
 支持	jie ddii
-支教	jie grau
 支族	jie zzuk
 支書	jie xiiw
 支架	jie grah
@@ -10595,7 +10652,6 @@ use_preset_vocabulary: true
 政府	jiannh biiox
 政情	jiannh zziann
 政改	jiannh gwix
-政教	jiannh grau
 政敵	jiannh ddek
 政柄	jiannh briannh
 政權	jiannh ggryen
@@ -10664,6 +10720,7 @@ use_preset_vocabulary: true
 救星	giiuh senn
 救火	giiuh huax
 救災	giiuh zwi
+救生	giiuh sriann
 救護	giiuh hhoh
 救贖	giiuh jjiiok
 敖廣	nnau guannx
@@ -10677,48 +10734,10 @@ use_preset_vocabulary: true
 敘言	ssiiwx nniion
 敘談	ssiiwx ddam
 敘述	ssiiwx jjyt
-教主	grau jiiox
-教儀	grau nnrie
-教具	grau ggiioh
-教務	grau miioh
-教化	grau hruah
-教友	grau riiux
-教員	grau ruun
-教唆	grau sua
-教堂	grau ddann
-教士	grau zzriix
-教子	grau ziix
-教學	grau hhrok
-教安	grau van
-教宗	grau zonn
-教官	grau guan
-教室	grau xit
-教導	grau ddauh
-教師	grau sri
-教徒	grau ddo
-教授	grau xxiiuh
-教書	grau xiiw
-教本	grau bwnx
-教材	grau zzwi
-教案	grau vanh
-教條	grau ddeu
-教權	grau ggryen
-教母	grau mwux
-教民	grau min
-教法	grau biiop
-教派	grau preh
-教理	grau liix
-教皇	grau hhuann
-教程	grau ddiann
-教練	grau lenh
-教義	grau nnrieh
-教育	grau iiuk
-教規	grau gye
-教訓	grau huunh
-教誨	grau huwih
-教鞭	grau bien
-教頭	grau ddwu
-教齡	grau lenn
+教主	grauh jiiox
+教區	grauh kiio
+教友	grauh riiux
+教堂	grauh ddann
 敞亮	qiiannx liiannh
 敞口	qiiannx kwux
 敞開	qiiannx kwi
@@ -10814,7 +10833,6 @@ use_preset_vocabulary: true
 文康	miin kann
 文憑	miin bbiinn
 文成	miin xxiann
-文教	miin grau
 文旦	miin danh
 文昌	miin qiiann
 文明	miin mriann
@@ -10932,7 +10950,6 @@ use_preset_vocabulary: true
 新手	sin xiiux
 新拉	sin lwp
 新政	sin jiannh
-新教	sin grau
 新昌	sin qiiann
 新星	sin senn
 新春	sin qyn
@@ -10958,6 +10975,7 @@ use_preset_vocabulary: true
 新潮	sin ddieu
 新營	sin yann
 新版	sin branx
+新生	sin sriann
 新田	sin dden
 新界	sin greih
 新異	sin iih
@@ -11180,7 +11198,6 @@ use_preset_vocabulary: true
 明志	mriann jiih
 明慧	mriann hhueih
 明手	mriann xiiux
-明教	mriann grau
 明文	mriann miin
 明日	mriann gnit
 明早	mriann zaux
@@ -11368,6 +11385,7 @@ use_preset_vocabulary: true
 晚景	miionx griannx
 晚期	miionx ggii
 晚清	miionx ciann
+晚生	miionx sriann
 晚育	miionx iiuk
 晚輩	miionx bwih
 晚間	miionx grenh
@@ -11407,7 +11425,6 @@ use_preset_vocabulary: true
 普陀	pox dda
 景寧	griannx nenn
 景山	griannx sren
-景教	griannx grau
 景東	griannx dunn
 景況	griannx huuannh
 景泰	griannx taih
@@ -11591,6 +11608,7 @@ use_preset_vocabulary: true
 書櫃	xiiw ggryh
 書法	xiiw biiop
 書牘	xiiw dduk
+書生	xiiw sriann
 書皮	xiiw bbrie
 書目	xiiw miiuk
 書眉	xiiw mri
@@ -13143,6 +13161,7 @@ use_preset_vocabulary: true
 死水	six xyx
 死海	six hwix
 死球	six ggiiu
+死生	six sriann
 死硬	six nnrennh
 死神	six jjin
 死穴	six hhuet
@@ -13165,7 +13184,6 @@ use_preset_vocabulary: true
 殃及	viiann ggrip
 殉國	ssynh guwk
 殉情	ssynh zziann
-殉教	ssynh grau
 殉死	ssynh six
 殉節	ssynh zet
 殉職	ssynh jiik
@@ -13222,6 +13240,7 @@ use_preset_vocabulary: true
 殺敵	sret ddek
 殺死	sret six
 殺滅	sret miet
+殺生	sret sriann
 殺絕	sret zzyet
 殺菌	sret ggrynx
 殺頭	sret ddwu
@@ -13330,6 +13349,7 @@ use_preset_vocabulary: true
 民歌	min ga
 民法	min biiop
 民營	min yann
+民生	min sriann
 民用	min iionnh
 民科	min kua
 民航	min hhann
@@ -13405,6 +13425,7 @@ use_preset_vocabulary: true
 水玉	xyx nniiok
 水珠	xyx jiio
 水球	xyx ggiiu
+水生	xyx sriann
 水田	xyx dden
 水療	xyx lieuh
 水盂	xyx riio
@@ -13501,9 +13522,9 @@ use_preset_vocabulary: true
 求情	ggiiu zziann
 求愛	ggiiu vwih
 求救	ggiiu giiuh
-求教	ggiiu grau
 求是	ggiiu xxiex
 求歡	ggiiu huan
+求生	ggiiu sriann
 求知	ggiiu die
 求職	ggiiu jiik
 求證	ggiiu jiinnh
@@ -13944,6 +13965,7 @@ use_preset_vocabulary: true
 派勢	preh xieih
 派對	preh duwih
 派性	preh siannh
+派生	preh sriann
 派系	preh hheih
 派購	preh gwuh
 派送	preh sunnh
@@ -14621,6 +14643,7 @@ use_preset_vocabulary: true
 滋味	zii miiih
 滋擾	zii gnieux
 滋潤	zii gnynh
+滋生	zii sriann
 滋芽	zii nnra
 滋補	zii box
 滋賀	zii hhah
@@ -15447,6 +15470,7 @@ use_preset_vocabulary: true
 營救	yann giiuh
 營業	yann nniiop
 營求	yann ggiiu
+營生	yann sriann
 營盤	yann bban
 營私	yann si
 營謀	yann miiu
@@ -15657,6 +15681,9 @@ use_preset_vocabulary: true
 物資	miit zi
 物鏡	miit griannh
 物體	miit teix
+牲口	sriann kwux
+牲禮	sriann leix
+牲體	sriann teix
 牴觸	deix qiiok
 牸牛	zziih nniiu
 牸馬	zziih mrax
@@ -15716,6 +15743,7 @@ use_preset_vocabulary: true
 犎牛	biionn nniiu
 犒賞	kauh xiiannx
 犢子	dduk ziix
+犧牲	hrie sriann
 犪牛	ggry nniiu
 犬儒	kuenx gniio
 犬戎	kuenx gniiunn
@@ -15824,6 +15852,8 @@ use_preset_vocabulary: true
 猢猻	hho suwn
 猥瑣	vuwix suax
 猥褻	vuwix siet
+猩猩	sriann sriann
+猩紅	sriann hhunn
 猳國	gra guwk
 猴兒	hhwu gnie
 猴子	hhwu ziix
@@ -15868,6 +15898,7 @@ use_preset_vocabulary: true
 獨步	dduk bboh
 獨特	dduk ddwk
 獨獨	dduk dduk
+獨生	dduk sriann
 獨白	dduk bbrak
 獨秀	dduk siiuh
 獨立	dduk lip
@@ -16380,6 +16411,7 @@ use_preset_vocabulary: true
 男星	nwm senn
 男根	nwm gwn
 男爵	nwm ziiak
+男生	nwm sriann
 男的	nwm dek
 男神	nwm jjin
 男童	nwm ddunn
@@ -16412,6 +16444,7 @@ use_preset_vocabulary: true
 畢摩	bit ma
 畢昇	bit xiinn
 畢業	bit nniiop
+畢生	bit sriann
 畢竟	bit griannh
 畢節	bit zet
 畢肖	bit sieuh
@@ -16446,7 +16479,6 @@ use_preset_vocabulary: true
 異心	iih sim
 異性	iih siannh
 異才	iih zzwi
-異教	iih grau
 異文	iih miin
 異族	iih zzuk
 異構	iih gwuh
@@ -16708,6 +16740,7 @@ use_preset_vocabulary: true
 發獎	biiot ziiannx
 發現	biiot hhenh
 發球	biiot ggiiu
+發生	biiot sriann
 發病	biiot bbriannh
 發痛	biiot tunnh
 發癢	biiot iiannx
@@ -17501,6 +17534,13 @@ use_preset_vocabulary: true
 碑誌	brie jiih
 碑銘	brie menn
 碑額	brie nnrak
+碧玉	briak nniiok
+碧璽	briak siex
+碧眼	briak nnrenx
+碧空	briak kunn
+碧綠	briak liiok
+碧藍	briak lam
+碧血	briak huet
 碩士	xxiak zzriix
 碩果	xxiak guax
 確乎	krok hho
@@ -17558,7 +17598,6 @@ use_preset_vocabulary: true
 社團	xxiax dduan
 社學	xxiax hhrok
 社工	xxiax gunn
-社教	xxiax grau
 社旗	xxiax ggii
 社火	xxiax huax
 社科	xxiax kua
@@ -17567,7 +17606,6 @@ use_preset_vocabulary: true
 社頭	xxiax ddwu
 祀物	ssiix miit
 祀神	ssiix jjin
-祆教	hen grau
 祆道	hen ddaux
 祈求	ggiii ggiiu
 祈福	ggiii biiuk
@@ -17696,7 +17734,6 @@ use_preset_vocabulary: true
 禮堂	leix ddann
 禮帽	leix mauh
 禮拜	leix breih
-禮教	leix grau
 禮服	leix bbiiuk
 禮泉	leix zzyen
 禮法	leix biiop
@@ -18154,6 +18191,7 @@ use_preset_vocabulary: true
 竹林	diiuk lim
 竹溪	diiuk kei
 竹田	diiuk dden
+竹笙	diiuk sriann
 竹筍	diiuk synx
 竹管	diiuk guanx
 竹節	diiuk zet
@@ -18167,6 +18205,10 @@ use_preset_vocabulary: true
 竿子	gan ziix
 竿頭	gan ddwu
 笄年	gei nen
+笙歌	sriann ga
+笙管	sriann guanx
+笙簧	sriann hhuann
+笙簫	sriann seu
 笛子	ddek ziix
 笞刑	tii hhenn
 笞撻	tii tat
@@ -18292,7 +18334,6 @@ use_preset_vocabulary: true
 管座	guanx zzuah
 管待	guanx ddwix
 管情	guanx zziann
-管教	guanx grau
 管束	guanx xiiok
 管燈	guanx dwnn
 管理	guanx liix
@@ -18844,6 +18885,7 @@ use_preset_vocabulary: true
 終期	jiiunn ggii
 終極	jiiunn ggiik
 終止	jiiunn jiix
+終生	jiiunn sriann
 終究	jiiunn giiuh
 終端	jiiunn duan
 終結	jiiunn get
@@ -19623,6 +19665,7 @@ use_preset_vocabulary: true
 老歌	laux ga
 老漢	laux hanh
 老爸	laux bbax
+老生	laux sriann
 老粗	laux zzox
 老練	laux lenh
 老繭	laux genx
@@ -19670,6 +19713,7 @@ use_preset_vocabulary: true
 考期	kaux ggii
 考本	kaux bwnx
 考核	kaux hhrek
+考生	kaux sriann
 考研	kaux nnenh
 考究	kaux giiuh
 考績	kaux zek
@@ -19973,7 +20017,7 @@ use_preset_vocabulary: true
 胎動	twi ddunnx
 胎壓	twi vrap
 胎座	twi zzuah
-胎教	twi grau
+胎生	twi sriann
 胎盤	twi bban
 胎糞	twi biinh
 胎記	twi giih
@@ -19996,6 +20040,7 @@ use_preset_vocabulary: true
 胡狼	hho lann
 胡琴	hho ggrim
 胡瓜	hho grua
+胡笙	hho sriann
 胡臭	hho qiiuh
 胡芫	hho nnuuon
 胡花	hho hrua
@@ -20032,6 +20077,7 @@ use_preset_vocabulary: true
 脹起	diiannh kiix
 脾胃	bbie ruuih
 腋毛	iak mau
+腋生	iak sriann
 腋臭	iak qiiuh
 腋芽	iak nnra
 腎炎	xxinx riem
@@ -20386,7 +20432,6 @@ use_preset_vocabulary: true
 舊態	ggiiuh twih
 舊損	ggiiuh suwnx
 舊故	ggiiuh goh
-舊教	ggiiuh grau
 舊日	ggiiuh gnit
 舊時	ggiiuh xxii
 舊曆	ggiiuh lek
@@ -20628,6 +20673,7 @@ use_preset_vocabulary: true
 花環	hrua hhruan
 花瓣	hrua bbrenh
 花瓶	hrua bbenn
+花生	hrua sriann
 花用	hrua iionnh
 花甲	hrua grap
 花痴	hrua tii
@@ -20921,6 +20967,7 @@ use_preset_vocabulary: true
 萇楚	ddiiann criiwh
 萋萋	cei cei
 萌動	mrenn ddunnx
+萌生	mrenn sriann
 萌發	mrenn biiot
 萌芽	mrenn nnra
 萍鄉	bbenn hiiann
@@ -21790,7 +21837,6 @@ use_preset_vocabulary: true
 襄陽	siiann iiann
 襏襫	bat xiak
 襖子	vaux ziix
-襖教	vaux grau
 襟兄	grim hryann
 襟懷	grim hhruei
 襟抱	grim bbaux
@@ -21936,7 +21982,6 @@ use_preset_vocabulary: true
 觸鬚	qiiok siio
 言喻	nniion iioh
 言官	nniion guan
-言教	nniion grau
 言明	nniion mriann
 言詞	nniion ssii
 言談	nniion ddam
@@ -21969,7 +22014,6 @@ use_preset_vocabulary: true
 討底	taux deix
 討拍	taux prak
 討擾	taux gnieux
-討教	taux grau
 討海	taux hwix
 討究	taux giiuh
 討米	taux meix
@@ -22291,6 +22335,7 @@ use_preset_vocabulary: true
 謀智	miiu dieh
 謀殺	miiu sret
 謀求	miiu ggiiu
+謀生	miiu sriann
 謀略	miiu liiak
 謀職	miiu jiik
 謀臣	miiu xxin
@@ -22697,6 +22742,7 @@ use_preset_vocabulary: true
 貢山	gunnh sren
 貢布	gunnh boh
 貢物	gunnh miit
+貢生	gunnh sriann
 貢茶	gunnh ddra
 貢賦	gunnh biioh
 貧乏	bbrin bbiiop
@@ -23069,6 +23115,7 @@ use_preset_vocabulary: true
 超時	tieu xxii
 超模	tieu mo
 超渡	tieu ddoh
+超生	tieu sriann
 超界	tieu greih
 超等	tieu dwnnx
 超級	tieu grip
@@ -23272,7 +23319,6 @@ use_preset_vocabulary: true
 身手	xin xiiux
 身才	xin zzwi
 身故	xin goh
-身教	xin grau
 身材	xin zzwi
 身板	xin branx
 身段	xin dduanh
@@ -23679,6 +23725,7 @@ use_preset_vocabulary: true
 逃漏	ddau lwuh
 逃犯	ddau bbiiomx
 逃獄	ddau nniiok
+逃生	ddau sriann
 逃稅	ddau xyeih
 逃竄	ddau cuanh
 逃荒	ddau huann
@@ -24040,7 +24087,6 @@ use_preset_vocabulary: true
 道家	ddaux gra
 道德	ddaux dwk
 道指	ddaux jix
-道教	ddaux grau
 道牙	ddaux nnra
 道理	ddaux liix
 道瓊	ddaux ggyann
@@ -24523,7 +24569,6 @@ use_preset_vocabulary: true
 釋念	xiak nemh
 釋懷	xiak hhruei
 釋手	xiak xiiux
-釋教	xiak grau
 釋文	xiak miin
 釋然	xiak gnien
 釋疑	xiak nnii
@@ -24942,6 +24987,7 @@ use_preset_vocabulary: true
 門牙	mwn nnra
 門球	mwn ggiiu
 門環	mwn hhruan
+門生	mwn sriann
 門神	mwn jjin
 門童	mwn ddunn
 門第	mwn ddeih
@@ -25297,6 +25343,7 @@ use_preset_vocabulary: true
 陋屋	lwuh vuk
 陋習	lwuh ssip
 陋規	lwuh gye
+陌生	mrak sriann
 陌路	mrak loh
 陌陌	mrak mrak
 限價	hhrenx grah
@@ -25564,7 +25611,6 @@ use_preset_vocabulary: true
 雅愛	nnrax vwih
 雅懷	nnrax hhruei
 雅故	nnrax goh
-雅教	nnrax grau
 雅歌	nnrax ga
 雅江	nnrax gronn
 雅法	nnrax biiop
@@ -25670,6 +25716,7 @@ use_preset_vocabulary: true
 雙溪	sronn kei
 雙灤	sronn luan
 雙獨	sronn dduk
+雙生	sronn sriann
 雙盲	sronn mrann
 雙眸	sronn miiu
 雙眼	sronn nnrenx
@@ -25769,6 +25816,7 @@ use_preset_vocabulary: true
 雪片	syet penh
 雪球	syet ggiiu
 雪白	syet bbrak
+雪碧	syet briak
 雪紡	syet piiannx
 雪線	syet sienh
 雪耳	syet gniix
@@ -25865,7 +25913,6 @@ use_preset_vocabulary: true
 電感	ddenh gwmx
 電抗	ddenh kannh
 電擊	ddenh gek
-電教	ddenh grau
 電木	ddenh muk
 電杆	ddenh ganh
 電梯	ddenh tei
@@ -26134,7 +26181,6 @@ use_preset_vocabulary: true
 面頰	mienh gep
 面額	mienh nnrak
 面顏	mienh nnran
-面龐	mienh bbronn
 靦腆	tenx tenx
 革吉	grek git
 革命	grek mriannh
@@ -26390,7 +26436,6 @@ use_preset_vocabulary: true
 領帶	liannx daih
 領悟	liannx nnoh
 領情	liannx zziann
-領教	liannx grau
 領有	liannx riiux
 領海	liannx hwix
 領獎	liannx ziiannx
@@ -27438,7 +27483,6 @@ use_preset_vocabulary: true
 黃巾	hhuann grin
 黃帝	hhuann deih
 黃忠	hhuann diiunn
-黃教	hhuann grau
 黃斑	hhuann bran
 黃昏	hhuann huwn
 黃書	hhuann xiiw
@@ -27701,7 +27745,6 @@ use_preset_vocabulary: true
 鼻骨	bbih guwt
 齋堂	zrei ddann
 齋戒	zrei greih
-齋教	zrei grau
 齋月	zrei nnuuot
 齋期	zrei ggii
 齋果	zrei guax
@@ -27769,11 +27812,7 @@ use_preset_vocabulary: true
 龍駒	liionn giio
 龍骨	liionn guwt
 龍鳳	liionn bbiiunnh
-龐克	bbronn kwk
 龐德	bbronn dwk
-龐涓	bbronn guen
-龐貝	bbronn baih
-龐雜	bbronn zzwp
 龕影	kwm vriannx
 一丁點	vit denn demx
 一下兒	vit hhrax gnie
@@ -27793,6 +27832,7 @@ use_preset_vocabulary: true
 一團火	vit dduan huax
 一團糟	vit dduan zau
 一場空	vit ddiiann kunn
+一塊兒	vit kuwih gnie
 一壁廂	vit bek siiann
 一夜情	vit iah zziann
 一字兒	vit zziih gnie
@@ -27805,6 +27845,7 @@ use_preset_vocabulary: true
 一年半	vit nen banh
 一年多	vit nen da
 一年期	vit nen ggii
+一年生	vit nen sriann
 一把手	vit brax xiiux
 一撥兒	vit bat gnie
 一攬子	vit lamx ziix
@@ -27824,7 +27865,7 @@ use_preset_vocabulary: true
 一百一	vit brak vit
 一眨眼	vit zrep nnrenx
 一瞬間	vit xynh grenh
-一神教	vit jjin grau
+一神教	vit jjin grauh
 一神論	vit jjin luwnh
 一等獎	vit dwnnx ziiannx
 一節詩	vit zet xii
@@ -27865,6 +27906,7 @@ use_preset_vocabulary: true
 三八節	sam bret zet
 三八線	sam bret sienh
 三味線	sam miiih sienh
+三夷教	sam i grauh
 三節鞭	sam zet bien
 三腳架	sam giiak grah
 三角凳	sam grok dwnnh
@@ -27923,6 +27965,7 @@ use_preset_vocabulary: true
 中國通	diiunn guwk tunn
 中國鈸	diiunn guwk bbat
 中壓管	diiunn vrap guanx
+中學生	diiunn hhrok sriann
 中山裝	diiunn sren zriiann
 中微子	diiunn miii ziix
 中心矩	diiunn sim giiox
@@ -28016,6 +28059,7 @@ use_preset_vocabulary: true
 二地主	gnih ddih jiiox
 二婚頭	gnih huwn ddwu
 二尖瓣	gnih ziem bbrenh
+二年生	gnih nen sriann
 二手房	gnih xiiux bbiiann
 二手煙	gnih xiiux ven
 二手貨	gnih xiiux huah
@@ -28259,7 +28303,7 @@ use_preset_vocabulary: true
 佔領者	dem liannx jiax
 佛山市	bbiit sren xxiix
 佛手瓜	bbiit xiiux grua
-佛教徒	bbiit grau ddo
+佛教徒	bbiit grauh ddo
 佛朗哥	bbiit lannx ga
 佛朗機	bbiit lannx giii
 佛舍利	bbiit xiax lih
@@ -28390,9 +28434,12 @@ use_preset_vocabulary: true
 傑里科	ggriet liix kua
 傑里米	ggriet liix meix
 備用環	bbrih iionnh hhruan
+催生婆	cuwi sriann bba
 催眠曲	cuwi men kiiok
 催眠藥	cuwi men iiak
 催眠術	cuwi men jjyt
+傳教團	ddyen grauh dduan
+傳教士	ddyen grauh zzriix
 傾向性	kyann hiiannh siannh
 僅次于	ggrinh cih riio
 僧帽猴	swnn mauh hhwu
@@ -28575,6 +28622,7 @@ use_preset_vocabulary: true
 再保證	zwih baux jiinnh
 再保險	zwih baux hriemx
 再利用	zwih lih iionnh
+再發生	zwih biiot sriann
 再融資	zwih iiunn zi
 再製紙	zwih jieih jiex
 冕柳鶯	mrienx liiux vrenn
@@ -28595,6 +28643,7 @@ use_preset_vocabulary: true
 冰球場	biinn ggiiu ddiiann
 冰醋酸	biinn coh suan
 冶金學	iax grim hhrok
+准生證	jynx sriann jiinnh
 准考證	jynx kaux jiinnh
 凌志美	liinn jiih mrix
 凌波舞	liinn ba miiox
@@ -28624,6 +28673,7 @@ use_preset_vocabulary: true
 刊誤表	kan nnoh brieux
 刑訴法	hhenn soh biiop
 划得來	hhrua dwk lwi
+初中生	criiw diiunn sriann
 初始化	criiw xiix hruah
 初學者	criiw hhrok jiax
 判例法	panh lieih biiop
@@ -29011,6 +29061,7 @@ use_preset_vocabulary: true
 古文明	gox miin mriann
 古新統	gox sin tonnh
 古玩店	gox nnuanh demh
+古生物	gox sriann miit
 古登堡	gox dwnn baux
 古盜鳥	gox ddauh deux
 古縴道	gox ken ddaux
@@ -29024,6 +29075,7 @@ use_preset_vocabulary: true
 叫花子	geuh hrua ziix
 召集人	ddieuh zzip gnin
 可倫坡	kax lyn pa
+可再生	kax zwih sriann
 可勁兒	kax giannh gnie
 可可米	kax kax meix
 可塑性	kax soh siannh
@@ -29462,7 +29514,7 @@ use_preset_vocabulary: true
 基爾特	gii gniex ddwk
 基督城	gii dok xxiann
 基督徒	gii dok ddo
-基督教	gii dok grau
+基督教	gii dok grauh
 基西紐	gii sei niiux
 基諧波	gii hhrei ba
 基諾族	gii nak zzuk
@@ -29561,6 +29613,7 @@ use_preset_vocabulary: true
 多巴胺	da bra vat
 多幕劇	da mak ggriak
 多年來	da nen lwi
+多年生	da nen sriann
 多得是	da dwk xxiex
 多方位	da biiann ryh
 多方面	da biiann mienh
@@ -29575,7 +29628,7 @@ use_preset_vocabulary: true
 多用途	da iionnh ddo
 多發病	da biiot bbriannh
 多目的	da miiuk dek
-多神教	da jjin grau
+多神教	da jjin grauh
 多神論	da jjin luwnh
 多米諾	da meix nak
 多粒子	da lip ziix
@@ -29597,7 +29650,7 @@ use_preset_vocabulary: true
 夜開花	iah kwi hrua
 夜闌珊	iah lan san
 夜香木	iah hiiann muk
-天主教	ten jiiox grau
+天主教	ten jiiox grauh
 天兔座	ten toh zzuah
 天前配	ten zzen pwih
 天剛亮	ten gann liiannh
@@ -29615,7 +29668,7 @@ use_preset_vocabulary: true
 天演論	ten ienx luwnh
 天爐座	ten lo zzuah
 天狼星	ten lann senn
-天理教	ten liix grau
+天理教	ten liix grauh
 天琴座	ten ggrim zzuah
 天秤座	ten qiinnh zzuah
 天箭座	ten zienh zzuah
@@ -29837,7 +29890,6 @@ use_preset_vocabulary: true
 宋干節	sonnh gan zet
 宋徽宗	sonnh huui zonn
 宋慶齡	sonnh kriannh lenn
-宋教仁	sonnh grau gnin
 宋武帝	sonnh miiox deih
 宋祖英	sonnh zox vriann
 宋美齡	sonnh mrix lenn
@@ -29849,9 +29901,9 @@ use_preset_vocabulary: true
 宗主國	zonn jiiox guwk
 宗主權	zonn jiiox ggryen
 宗喀巴	zonn krak bra
-宗教團	zonn grau dduan
-宗教學	zonn grau hhrok
-宗教徒	zonn grau ddo
+宗教團	zonn grauh dduan
+宗教學	zonn grauh hhrok
+宗教徒	zonn grauh ddo
 宗聖侯	zonn xiannh hhwu
 宗聖公	zonn xiannh gunn
 官二代	guan gnih ddwih
@@ -29870,6 +29922,7 @@ use_preset_vocabulary: true
 宣威市	syen vuui xxiix
 宣武門	syen miiox mwn
 宣誓書	syen xxieih xiiw
+宰牲節	zwix sriann zet
 害月子	hhaih nnuuot ziix
 家八哥	gra bret ga
 家家酒	gra gra ziiux
@@ -29884,6 +29937,8 @@ use_preset_vocabulary: true
 寄件者	grieh ggrienx jiax
 寄存器	grieh zzuwn krih
 寄物櫃	grieh miit ggryh
+寄生物	grieh sriann miit
+寄生者	grieh sriann jiax
 密山市	mrit sren xxiix
 密歇根	mrit hiiot gwn
 密特朗	mrit ddwk lannx
@@ -29911,6 +29966,7 @@ use_preset_vocabulary: true
 實幹家	jjit ganh gra
 實業家	jjit nniiop gra
 實況主	jjit huuannh jiiox
+實習生	jjit ssip sriann
 實際性	jjit zieih siannh
 實驗室	jjit nnriemh xit
 實驗所	jjit nnriemh sriiwx
@@ -29995,6 +30051,7 @@ use_preset_vocabulary: true
 小娃娃	sieux vre vre
 小孩兒	sieux hhwi gnie
 小孩子	sieux hhwi ziix
+小學生	sieux hhrok sriann
 小家鼠	sieux gra xiiwx
 小屁孩	sieux pih hhwi
 小年人	sieux nen gnin
@@ -30072,6 +30129,7 @@ use_preset_vocabulary: true
 小黃瓜	sieux hhuann grua
 小龍蝦	sieux liionn hhra
 尖吻鱸	ziem miinx lo
+尖子生	ziem ziix sriann
 尖石鄉	ziem xxiak hiiann
 尖管麵	ziem guanx menh
 尖草坪	ziem caux bbriann
@@ -30169,7 +30227,7 @@ use_preset_vocabulary: true
 巨石陣	ggiiwx xxiak ddinh
 巨蟹座	ggiiwx hhrex zzuah
 巨齒鯊	ggiiwx qiix sra
-巫毒教	miio ddok grau
+巫毒教	miio ddok grauh
 巴克斯	bra kwk sie
 巴別塔	bra bbriet tap
 巴利文	bra lih miin
@@ -30412,6 +30470,7 @@ use_preset_vocabulary: true
 微晶片	miii ziann penh
 微機化	miii giii hruah
 微波爐	miii ba lo
+微生物	miii sriann miit
 微粒體	miii lip teix
 微血管	miii huet guanx
 微電子	miii ddenh ziix
@@ -30483,7 +30542,6 @@ use_preset_vocabulary: true
 性快感	siannh kruaih gwmx
 性成熟	siannh xxiann xxiiuk
 性接觸	siannh ziep qiiok
-性教育	siannh grau iiuk
 性服務	siannh bbiiuk miioh
 性熟存	siannh xxiiuk zzuwn
 性物戀	siannh miit lyenh
@@ -30774,8 +30832,8 @@ use_preset_vocabulary: true
 招股書	jieu gox xiiw
 拜天地	breih ten ddih
 拜把子	breih brax ziix
-拜火教	breih huax grau
-拜物教	breih miit grau
+拜火教	breih huax grauh
+拜物教	breih miit grauh
 拳擊手	ggryen gek xiiux
 拳擊臺	ggryen gek ddwi
 拼到底	brenn dauh deix
@@ -30947,6 +31005,7 @@ use_preset_vocabulary: true
 敏感性	mrinx gwmx siannh
 救撈局	giiuh lau ggiiok
 救災款	giiuh zwi kuanx
+救生筏	giiuh sriann bbiiot
 救贖主	giiuh jjiiok jiiox
 敖德薩	nnau dwk sat
 敖漢旗	nnau hanh ggii
@@ -30954,22 +31013,8 @@ use_preset_vocabulary: true
 敘利亞	ssiiwx lih vrah
 敘拉古	ssiiwx lwp gox
 敘述性	ssiiwx jjyt siannh
-教務室	grau miioh xit
-教友派	grau riiux preh
-教堂山	grau ddann sren
-教學樓	grau hhrok lwu
-教學法	grau hhrok biiop
-教師節	grau sri zet
-教書匠	grau xiiw zziiannh
-教研室	grau nnenh xit
-教練員	grau lenh ruun
-教練機	grau lenh giii
-教職員	grau jiik ruun
-教職工	grau jiik gunn
-教育學	grau iiuk hhrok
-教育家	grau iiuk gra
-教育性	grau iiuk siannh
-教育界	grau iiuk greih
+教友派	grauh riiux preh
+教堂山	grauh ddann sren
 敞開兒	qiiannx kwi gnie
 敢死隊	gamx six dduwih
 敬老席	griannh laux ssiak
@@ -31065,13 +31110,13 @@ use_preset_vocabulary: true
 新店溪	sin demh kei
 新德里	sin dwk liix
 新技術	sin ggriex jjyt
-新教徒	sin grau ddo
 新時代	sin xxii ddwih
 新民市	sin min xxiix
 新沂市	sin nniii xxiix
 新泰市	sin taih xxiix
 新澤西	sin ddrak sei
 新營市	sin yann xxiix
+新生代	sin sriann ddwih
 新石器	sin xxiak krih
 新社鄉	sin xxiax hiiann
 新竹市	sin diiuk xxiix
@@ -31336,6 +31381,7 @@ use_preset_vocabulary: true
 本拉登	bwnx lwp dwnn
 本星期	bwnx senn ggii
 本溪市	bwnx kei xxiix
+本科生	bwnx kua sriann
 朱元璋	jiio nnuuon jiiann
 朱利婭	jiio lih vrah
 朱利安	jiio lih van
@@ -31411,6 +31457,7 @@ use_preset_vocabulary: true
 杏仁體	hhrannx gnin teix
 杏花嶺	hhrannx hrua liannx
 杏花村	hhrannx hrua cuwn
+杜月笙	ddox nnuuot sriann
 杜荀鶴	ddox syn hhak
 杜蕾斯	ddox luwix sie
 杜鵑座	ddox guen zzuah
@@ -31644,6 +31691,7 @@ use_preset_vocabulary: true
 構想圖	gwuh siiannx ddo
 構詞學	gwuh ssii hhrok
 槭糖漿	ziiuk ddann ziiann
+槲寄生	hhuk grieh sriann
 樓梯口	lwu tei kwux
 樓梯臺	lwu tei ddwi
 樓梯間	lwu tei grenh
@@ -31944,7 +31992,6 @@ use_preset_vocabulary: true
 波帶片	ba daih penh
 波德申	ba dwk xin
 波斑鴇	ba bran baux
-波斯教	ba sie grau
 波斯灣	ba sie vruan
 波江座	ba gronn zzuah
 波波頭	ba ba ddwu
@@ -32118,7 +32165,6 @@ use_preset_vocabulary: true
 清太祖	ciann taih zox
 清州市	ciann jiiu xxiix
 清政府	ciann jiannh biiox
-清教徒	ciann grau ddo
 清明節	ciann mriann zet
 清水寺	ciann xyx ssiih
 清水河	ciann xyx hha
@@ -32511,6 +32557,8 @@ use_preset_vocabulary: true
 特雷沃	ddwk luwi vok
 特雷莎	ddwk luwi sua
 特魯多	ddwk lox da
+犧牲品	hrie sriann primx
+犧牲者	hrie sriann jiax
 犯罪學	bbiiomx zzuwix hhrok
 犯罪者	bbiiomx zzuwix jiax
 狀聲詞	zzriiannh xiann ssii
@@ -32527,6 +32575,8 @@ use_preset_vocabulary: true
 狼牙山	lann nnra sren
 猛勁兒	mrannx giannh gnie
 猜得透	cwi dwk twuh
+猩紅熱	sriann hhunn gniet
+猩紅色	sriann hhunn sriik
 猴孩子	hhwu hhwi ziix
 猴皮筋	hhwu bbrie giin
 猴麵包	hhwu menh brau
@@ -32705,7 +32755,6 @@ use_preset_vocabulary: true
 異地戀	iih ddih lyenh
 異形詞	iih hhenn ssii
 異性戀	iih siannh lyenh
-異教徒	iih grau ddo
 異構體	iih gwuh teix
 異特龍	iih ddwk liionn
 異端者	iih duan jiax
@@ -33048,6 +33097,8 @@ use_preset_vocabulary: true
 碎碎念	suwih suwih nemh
 碎紙機	suwih jiex giii
 碎音鈸	suwih vrim bbat
+碧昂絲	briak nnann sii
+碧螺春	briak lua qyn
 碾子山	nienh ziix sren
 碾米機	nienh meix giii
 磐石市	bban xxiak xxiix
@@ -33684,7 +33735,6 @@ use_preset_vocabulary: true
 耶利米	ia lih meix
 耶弗他	ia biit ta
 耶烈萬	ia liet miionh
-耶穌教	ia so grau
 耶誕節	ia ddanx zet
 聊城市	leu xxiann xxiix
 聊天兒	leu ten gnie
@@ -34061,6 +34111,7 @@ use_preset_vocabulary: true
 落地籤	lak ddih ciem
 落基山	lak gii sren
 落水管	lak xyx guanx
+落花生	lak hrua sriann
 落馬洲	lak mrax jiiu
 葛法翁	gat biiop vunn
 葛縷子	gat liiox ziix
@@ -34116,7 +34167,6 @@ use_preset_vocabulary: true
 薩拉米	sat lwp meix
 薩摩麟	sat ma lin
 薩斯病	sat sie bbriannh
-薩滿教	sat manx grau
 薩爾圖	sat gniex ddo
 薩爾州	sat gniex jiiu
 薩米人	sat meix gnin
@@ -34671,7 +34721,6 @@ use_preset_vocabulary: true
 軋道機	vret ddaux giii
 軋馬路	vret mrax loh
 軌跡球	gryx ziak ggiiu
-軍公教	guun gunn grau
 軍功章	guun gunn jiiann
 軍團菌	guun dduan ggrynx
 軍政府	guun jiannh biiox
@@ -34817,7 +34866,6 @@ use_preset_vocabulary: true
 運貨員	ruunh huah ruun
 道具服	ddaux ggiioh bbiiuk
 道德家	ddaux dwk gra
-道教徒	ddaux grau ddo
 道爾頓	ddaux gniex duwnh
 道瓊斯	ddaux ggyann sie
 違章者	ruui jiiann jiax
@@ -34874,7 +34922,6 @@ use_preset_vocabulary: true
 都市病	do xxiix bbriannh
 都拉斯	do lwp sie
 都柏林	do brak lim
-都龐嶺	do bbronn liannx
 鄂倫春	nnak lyn qyn
 鄂州市	nnak jiiu xxiix
 鄉人子	hiiann gnin ziix
@@ -35038,7 +35085,6 @@ use_preset_vocabulary: true
 錐齒輪	jy qiix lyn
 錦州市	grimx jiiu xxiix
 錫伯族	sek brak zzuk
-錫克教	sek kwk grau
 錫安山	sek van sren
 錫爾河	sek gniex hha
 錫箔紙	sek bbak jiex
@@ -35442,7 +35488,6 @@ use_preset_vocabulary: true
 非利士	biii lih zzriix
 非同步	biii ddunn bboh
 非吸煙	biii hrip ven
-非宗教	biii zonn grau
 非寫實	biii siax jjit
 非導體	biii ddauh teix
 非層巖	biii zzwnn nnram
@@ -35905,6 +35950,7 @@ use_preset_vocabulary: true
 黑浮鷗	hwk bbiiu vwu
 黑澤明	hwk ddrak mriann
 黑煤玉	hwk mwi nniiok
+黑猩猩	hwk sriann sriann
 黑琴雞	hwk ggrim gei
 黑百靈	hwk brak lenn
 黑皮諾	hwk bbrie nak
@@ -36089,6 +36135,7 @@ use_preset_vocabulary: true
 一線微光	vit sienh miii guann
 一股腦兒	vit gox naux gnie
 一舉一動	vit giiwx vit ddunnx
+一舉兩得	vit giiwx liiannx dwk
 一舉成功	vit giiwx xxiann gunn
 一落千丈	vit lak cen ddiiannx
 一葉知秋	vit iep die ciiu
@@ -36103,7 +36150,9 @@ use_preset_vocabulary: true
 一言一動	vit nniion vit ddunnx
 一言九鼎	vit nniion giiux dennx
 一言千金	vit nniion cen grim
+一言為定	vit nniion rye ddennh
 一諾千金	vit nak cen grim
+一貧如洗	vit bbrin gniiw seix
 一路風塵	vit loh biiunn ddin
 一蹴而就	vit ziiuk gnii zziiuh
 一蹴而得	vit ziiuk gnii dwk
@@ -36133,12 +36182,14 @@ use_preset_vocabulary: true
 七拼八湊	cit brenn bret cwuh
 七政四餘	cit jiannh sih iiw
 七旬老人	cit ssyn laux gnin
+七竅生煙	cit keuh sriann ven
 七老八十	cit laux bret xxip
 七聲音階	cit xiann vrim grei
 七葷八素	cit huun bret soh
 七言律詩	cit nniion lyt xii
 七零八碎	cit lenn bret suwih
 七零八落	cit lenn bret lak
+三三兩兩	sam sam liiannx liiannx
 三人成虎	sam gnin xxiann hox
 三代同堂	sam ddwih ddunn ddann
 三個代表	sam gah ddwih brieux
@@ -36147,9 +36198,12 @@ use_preset_vocabulary: true
 三天兩頭	sam ten liiannx ddwu
 三峽水庫	sam hhrep xyx koh
 三心二意	sam sim gnih viih
+三教九流	sam grauh giiux liiu
+三朋四友	sam bbwnn sih riiux
 三權鼎立	sam ggryen dennx lip
 三次方程	sam cih biiann ddiann
 三次曲線	sam cih kiiok sienh
+三生有幸	sam sriann riiux hhrennx
 三藩叛亂	sam biion bbanh luanh
 三角戀愛	sam grok lyenh vwih
 三貞九烈	sam diann giiux liet
@@ -36175,7 +36229,7 @@ use_preset_vocabulary: true
 主幹網絡	jiiox ganh miiannx lak
 主幹網路	jiiox ganh miiannx loh
 主承銷商	jiiox xxiinn sieu xiiann
-主教座堂	jiiox grau zzuah ddann
+主教座堂	jiiox grauh zzuah ddann
 主旨演講	jiiox jix ienx gronnx
 主權國家	jiiox ggryen guwk gra
 主管人員	jiiox guanx gnin ruun
@@ -36196,6 +36250,7 @@ use_preset_vocabulary: true
 亂七八糟	luanh cit bret zau
 亂成一團	luanh xxiann vit dduan
 亂臣賊子	luanh xxin zzwk ziix
+了卻此生	leux kiiak ciex sriann
 了無新意	leux miio sin viih
 二八佳人	gnih bret gre gnin
 二十一條	gnih xxip vit ddeu
@@ -36329,7 +36384,7 @@ use_preset_vocabulary: true
 人贓俱獲	gnin zann giio hhruek
 人身安全	gnin xin van zzyen
 人道主義	gnin ddaux jiiox nnrieh
-人間佛教	gnin grenh bbiit grau
+人間佛教	gnin grenh bbiit grauh
 人間喜劇	gnin grenh hiix ggriak
 人間地獄	gnin grenh ddih nniiok
 人間天堂	gnin grenh ten ddann
@@ -36401,7 +36456,7 @@ use_preset_vocabulary: true
 伊斯坦堡	vi sie tanx baux
 伊斯蘭國	vi sie lan guwk
 伊斯蘭堡	vi sie lan baux
-伊斯蘭教	vi sie lan grau
+伊斯蘭教	vi sie lan grauh
 伊普西隆	vi pox sei liiunn
 伊犁盆地	vi lei bbwn ddih
 伊藤博文	vi ddwnn bak miin
@@ -36491,6 +36546,7 @@ use_preset_vocabulary: true
 健康受損	ggiionh kann xxiiux suwnx
 健康狀況	ggiionh kann zzriiannh huuannh
 健美運動	ggiionh mrix ruunh ddunnx
+側生動物	zriik sriann ddunnx miit
 偷天換日	twu ten hhuanh gnit
 偷香竊玉	twu hiiann cet nniiok
 傑伊漢港	ggriet vi hanh gronnx
@@ -36969,6 +37025,7 @@ use_preset_vocabulary: true
 同軸圓弧	ddunn ddiiuk ryen hho
 同軸電纜	ddunn ddiiuk ddenh lamh
 同途殊歸	ddunn ddo xxiio guui
+同配生殖	ddunn pwih sriann xxiik
 名噪一時	miann sauh vit xxii
 名存實亡	miann zzuwn jjit miiann
 名揚四海	miann iiann sih hwix
@@ -37192,10 +37249,9 @@ use_preset_vocabulary: true
 基本完成	gii bwnx hhuan xxiann
 基本粒子	gii bwnx lip ziix
 基桑加尼	gii sann gra ni
-基督教徒	gii dok grau ddo
-基督教派	gii dok grau preh
-基督新教	gii dok sin grau
-基礎教育	gii criiwx grau iiuk
+基督教徒	gii dok grauh ddo
+基督教派	gii dok grauh preh
+基督新教	gii dok sin grauh
 基礎結構	gii criiwx get gwuh
 基輔羅斯	gii bbiiox la sie
 基里巴斯	gii liix bra sie
@@ -37269,7 +37325,8 @@ use_preset_vocabulary: true
 夜深人靜	iah xim gnin zziannx
 夜闌人靜	iah lan gnin zziannx
 夤緣攀附	in yen pran bbiioh
-天主教徒	ten jiiox grau ddo
+天主教徒	ten jiiox grauh ddo
+天主教會	ten jiiox grauh hhuaih
 天公地道	ten gunn ddih ddaux
 天南地北	ten nwm ddih bwk
 天南海北	ten nwm hwix bwk
@@ -37340,6 +37397,7 @@ use_preset_vocabulary: true
 好整以暇	hauh jiannx iix hhrah
 妖魔鬼怪	vrieu ma guuix grueih
 妙手回春	mieuh xiiux hhuwi qyn
+妙筆生花	mieuh brit sriann hrua
 姆巴巴納	mwuh bra bra nwp
 姍姍來遲	san san lwi ddi
 姑妄言之	go miiannh nniion jii
@@ -37353,7 +37411,7 @@ use_preset_vocabulary: true
 威逼利誘	vuui biik lih iiux
 威風凜凜	vuui biiunn limx limx
 婆婆媽媽	bba bba mox mox
-婆羅門教	bba la mwn grau
+婆羅門教	bba la mwn grauh
 婦人之仁	bbiiux gnin jii gnin
 婦姑勃谿	bbiiux go bbwt kei
 婦孺皆知	bbiiux gniioh grei die
@@ -37363,6 +37421,9 @@ use_preset_vocabulary: true
 嫌貧愛富	hhem bbrin vwih biiuh
 子子孫孫	ziix ziix suwn suwn
 子孫娘娘	ziix suwn niiann niiann
+孑孑為義	griet griet rye nnrieh
+孑然一身	griet gnien vit xin
+孑立無依	griet lip miio viii
 孔孟之道	kunnx mrannh jii ddaux
 孔武有力	kunnx miiox riiux liik
 孔融讓梨	kunnx iiunn gniiannh li
@@ -37378,6 +37439,7 @@ use_preset_vocabulary: true
 孟加拉國	mrannh gra lwp guwk
 孟加拉灣	mrannh gra lwp vruan
 孟德斯鳩	mrannh dwk sie giiu
+孤孑特立	go griet ddwk lip
 孤家寡人	go gra gruax gnin
 孤注一擲	go jiioh vit ddiak
 孤立子波	go lip ziix ba
@@ -37389,7 +37451,6 @@ use_preset_vocabulary: true
 孫臏兵法	suwn bbinx briann biiop
 學以致用	hhrok iix dih iionnh
 學位證書	hhrok ryh jiinnh xiiw
-學前教育	hhrok zzen grau iiuk
 學士學位	hhrok zzriix hhrok ryh
 學業有成	hhrok nniiop riiux xxiann
 學無止境	hhrok miio jiix griannx
@@ -37430,15 +37491,14 @@ use_preset_vocabulary: true
 完美無瑕	hhuan mrix miio hhra
 宏碁集團	hhruenn ggii zzip dduan
 宏都拉斯	hhruenn do lwp sie
-宗教儀式	zonn grau nnrie xiik
-宗教改革	zonn grau gwix grek
-宗教法庭	zonn grau biiop ddenn
+宗教儀式	zonn grauh nnrie xiik
+宗教改革	zonn grauh gwix grek
+宗教法庭	zonn grauh biiop ddenn
 宗派主義	zonn preh jiiox nnrieh
 官報私仇	guan bauh si ggiiu
 官宦人家	guan hhruanh gnin gra
 官廳水庫	guan tenn xyx koh
 官渡之戰	guan ddoh jii jienh
-客座教授	krak zzuah grau xxiiuh
 宣誓就職	syen xxieih zziiuh jiik
 宣誓證言	syen xxieih jiinnh nniion
 室邇人遐	xit gniex gnin hhra
@@ -37448,7 +37508,6 @@ use_preset_vocabulary: true
 家庭主婦	gra ddenn jiiox bbiiux
 家庭地址	gra ddenn ddih jiix
 家庭成員	gra ddenn xxiann ruun
-家庭教師	gra ddenn grau sri
 家徒四壁	gra ddo sih bek
 家用電器	gra iionnh ddenh krih
 家用電腦	gra iionnh ddenh naux
@@ -37479,7 +37538,6 @@ use_preset_vocabulary: true
 實受資本	jjit xxiiux zi bwnx
 實報實銷	jjit bauh jjit sieu
 實心皮球	jjit sim bbrie ggiiu
-實物教學	jjit miit grau hhrok
 實用主義	jjit iionnh jiiox nnrieh
 實用價值	jjit iionnh grah ddiih
 實至名歸	jjit jih miann guui
@@ -37502,7 +37560,6 @@ use_preset_vocabulary: true
 專案小組	jyen vanh sieux zox
 專業人士	jyen nniiop gnin zzriix
 專業人才	jyen nniiop gnin zzwi
-專業教育	jyen nniiop grau iiuk
 專用網路	jyen iionnh miiannx loh
 專門人員	jyen mwn gnin ruun
 專門機構	jyen mwn giii gwuh
@@ -37525,6 +37582,7 @@ use_preset_vocabulary: true
 小人得志	sieux gnin dwk jiih
 小兩口兒	sieux liiannx kwux gnie
 小型巴士	sieux hhenn bra zzriix
+小家碧玉	sieux gra briak nniiok
 小寫字母	sieux siax zziih mwux
 小山包包	sieux sren brau brau
 小心翼翼	sieux sim iik iik
@@ -37834,6 +37892,7 @@ use_preset_vocabulary: true
 忽魯謨斯	huwt lox mo sie
 怡然自得	ii gnien zzih dwk
 怡顏悅色	ii nnran yet sriik
+急中生智	grip diiunn sriann dieh
 急如星火	grip gniiw senn huax
 急急忙忙	grip grip mann mann
 急性腸炎	grip siannh ddiiann riem
@@ -37862,6 +37921,7 @@ use_preset_vocabulary: true
 悲天憫人	bri ten mrinx gnin
 情同骨肉	zziann ddunn guwt gniiuk
 情境模型	zziann griannx mo hhenn
+情急智生	zziann grip dieh sriann
 情有可原	zziann riiux kax nnuuon
 情有獨鍾	zziann riiux dduk jiionn
 情竇初開	zziann ddwuh criiw kwi
@@ -37926,6 +37986,7 @@ use_preset_vocabulary: true
 應用物理	viinnh iionnh miit liix
 應用程式	viinnh iionnh ddiann xiik
 應用軟件	viinnh iionnh gnyenx ggrienx
+應運而生	viinnh ruunh gnii sriann
 懲一警百	ddiinn vit griannx brak
 懵懵懂懂	munnx munnx dunnx dunnx
 懶得搭理	lanx dwk tap liix
@@ -38046,7 +38107,6 @@ use_preset_vocabulary: true
 拼音階段	brenn vrim grei dduanh
 拾人牙慧	xxip gnin nnra hhueih
 持續時間	ddii ssiiok xxii grenh
-指導教授	jix ddauh grau xxiiuh
 指指點點	jix jix demx demx
 指日可待	jix gnit kax ddwix
 指鹿為馬	jix luk rye mrax
@@ -38131,17 +38191,14 @@ use_preset_vocabulary: true
 改頭換面	gwix ddwu hhuanh mienh
 政府官員	jiannh biiox guan ruun
 政府機關	jiannh biiox giii gruan
+政教合一	jiannh grauh hhwp vit
 效忠誓詞	hhrauh diiunn xxieih ssii
 救命稻草	giiuh mriannh ddaux caux
 救死扶傷	giiuh six bbiio xiiann
 救焚益薪	giiuh bbiin viak sin
 救護人員	giiuh hhoh gnin ruun
 敘利亞文	ssiiwx lih vrah miin
-教堂墓地	grau ddann moh ddih
-教學機構	grau hhrok giii gwuh
-教宗座駕	grau zonn zzuah grah
-教條主義	grau ddeu jiiox nnrieh
-教職員工	grau jiik ruun gunn
+教堂墓地	grauh ddann moh ddih
 敝帚千金	bbieih jiiux cen grim
 敝帚自珍	bbieih jiiux zzih din
 敬老尊賢	griannh laux zuwn hhen
@@ -38225,6 +38282,7 @@ use_preset_vocabulary: true
 日本黑道	gnit bwnx hwk ddaux
 日無暇晷	gnit miio hhrah gryx
 日落西山	gnit lak sei sren
+日落風生	gnit lak biiunn sriann
 日薄崦嵫	gnit bbak vriem zii
 日電電子	gnit ddenh ddenh ziix
 早睡早起	zaux xxyeh zaux kiix
@@ -38285,7 +38343,6 @@ use_preset_vocabulary: true
 普蘭店市	pox lan demh xxiix
 普通名詞	pox tunn miann ssii
 普通夜鷹	pox tunn iah viinn
-普通教育	pox tunn grau iiuk
 普通朱雀	pox tunn jiio ziiak
 普通翠鳥	pox tunn cyh deux
 普通赤楊	pox tunn qiak iiann
@@ -38352,7 +38409,6 @@ use_preset_vocabulary: true
 有意無意	riiux viih miio viih
 有手有腳	riiux xiiux riiux giiak
 有損壓縮	riiux suwnx vrap sriiuk
-有教無類	riiux grau miio lyh
 有期徒刑	riiux ggii ddo hhenn
 有板有眼	riiux branx riiux nnrenx
 有核國家	riiux hhrek guwk gra
@@ -38468,6 +38524,7 @@ use_preset_vocabulary: true
 栗頭雀鶥	lit ddwu ziiak mri
 栗頰噪鶥	lit gep sauh mri
 栗額鶪鶥	lit nnrak guek mri
+栩栩如生	hiiox hiiox gniiw sriann
 核子醫學	hhrek ziix vii hhrok
 核對帳目	hhrek duwih diiannh miiuk
 核糖核酸	hhrek ddann hhrek suan
@@ -38499,7 +38556,6 @@ use_preset_vocabulary: true
 棘皮動物	giik bbrie ddunnx miit
 楔形文字	set hhenn miin zziih
 業務模式	nniiop miioh mo xiik
-業餘教育	nniiop iiw grau iiuk
 極北柳鶯	ggiik bwk liiux vrenn
 極權主義	ggiik ggryen jiiox nnrieh
 極端主義	ggiik duan jiiox nnrieh
@@ -38508,7 +38564,6 @@ use_preset_vocabulary: true
 極限運動	ggiik hhrenx ruunh ddunnx
 榮宗耀祖	ryann zonn ieuh zox
 榮歸故里	ryann guui goh liix
-樞機主教	qiio giii jiiox grau
 模糊邏輯	mo hho lah zzip
 模里西斯	mo liix sei sie
 機器人學	giii krih gnin hhrok
@@ -38573,6 +38628,7 @@ use_preset_vocabulary: true
 歸心似箭	guui sim ssiix zienh
 歸根到底	guui gwn dauh deix
 歸根結底	guui gwn get deix
+死中求生	six diiunn ggiiu sriann
 死乞白賴	six kiit bbrak laih
 死亡筆記	six miiann brit giih
 死心踏地	six sim twp ddih
@@ -38649,6 +38705,7 @@ use_preset_vocabulary: true
 河外星雲	hha nnuaih senn ruun
 河豚毒素	hha dduwn ddok soh
 沸沸揚揚	biiih biiih iiann iiann
+油然而生	iiu gnien gnii sriann
 治國理政	ddii guwk liix jiannh
 沼澤地帶	jieux ddrak ddih daih
 沼澤山雀	jieux ddrak sren ziiak
@@ -38933,6 +38990,7 @@ use_preset_vocabulary: true
 焦頭爛額	zieu ddwu lanh nnrak
 煙花柳巷	ven hrua liiux hhronnh
 煙花粉黛	ven hrua biinx ddwih
+煢煢孑立	ggyann ggyann griet lip
 煥然一新	huanh gnien vit sin
 照本宣科	jieuh bwnx syen kua
 照片底版	jieuh penh deix branx
@@ -38989,7 +39047,6 @@ use_preset_vocabulary: true
 特別護理	ddwk bbriet hhoh liix
 特技演員	ddwk ggriex ienx ruun
 特技跳傘	ddwk ggriex ddeu sanx
-特殊教育	ddwk xxiio grau iiuk
 特殊護理	ddwk xxiio hhoh liix
 特殊關係	ddwk xxiio gruan geih
 特羅多斯	ddwk la da sie
@@ -39213,6 +39270,7 @@ use_preset_vocabulary: true
 白雪公主	bbrak syet gunn jiiox
 白雪皚皚	bbrak syet nnwi nnwi
 白雲機場	bbrak ruun giii ddiiann
+白面書生	bbrak mienh xiiw sriann
 白頂玄鷗	bbrak dennx hhuen vwu
 白項鳳鶥	bbrak hhronnx bbiiunnh mri
 白領八哥	bbrak liannx bret ga
@@ -39327,6 +39385,7 @@ use_preset_vocabulary: true
 硝酸甘油	sieu suan gam iiu
 碎心裂膽	suwih sim liet damx
 碎片整理	suwih penh jiannx liix
+碧草如茵	briak caux gniiw vin
 碩士學位	xxiak zzriix hhrok ryh
 碩果僅存	xxiak guax ggrinh zzuwn
 礙手礙腳	nnwih xiiux nnwih giiak
@@ -39353,7 +39412,6 @@ use_preset_vocabulary: true
 福澤諭吉	biiuk ddrak iioh git
 福無雙至	biiuk miio sronn jih
 禮拜儀式	leix breih nnrie xiik
-禮教吃人	leix grau giit gnin
 禮義廉恥	leix nnrieh liem tiix
 秀色可餐	siiuh sriik kax can
 秀色孫鰈	siiuh sriik suwn tap
@@ -39635,7 +39693,6 @@ use_preset_vocabulary: true
 羅威納犬	la vuui nwp kuenx
 羅納爾多	la nwp gniex da
 羅縷紀存	la liiox giix zzuwn
-羅馬公教	la mrax gunn grau
 羅馬字母	la mrax zziih mwux
 羅馬尼亞	la mrax ni vrah
 羅馬帝國	la mrax deih guwk
@@ -39663,7 +39720,6 @@ use_preset_vocabulary: true
 美洲兀鷹	mrix jiiu nnuwt viinn
 美聲唱法	mrix xiann qiiannh biiop
 美輪美奐	mrix lyn mrix huanh
-義務教育	nnrieh miioh grau iiuk
 義結金蘭	nnrieh get grim lan
 義薄雲天	nnrieh bbak ruun ten
 羹藜含糗	grann lei hhwm kiiux
@@ -39718,7 +39774,6 @@ use_preset_vocabulary: true
 聖安德魯	xiannh van dwk lox
 聖彼得堡	xiannh briex dwk baux
 聖德太子	xiannh dwk taih ziix
-聖母教堂	xiannh mwux grau ddann
 聖盧西亞	xiannh lo sei vrah
 聖誕前夕	xiannh ddanx zzen ssiak
 聖誕老人	xiannh ddanx laux gnin
@@ -39730,7 +39785,6 @@ use_preset_vocabulary: true
 聲色場所	xiann sriik ddiiann sriiwx
 聲類系統	xiann lyh hheih tonnh
 聶姆曹娃	niep mwuh zzau vre
-職業教育	jiik nniiop grau iiuk
 肄業證書	ih nniiop jiinnh xiiw
 肅然起敬	siiuk gnien kiix griannh
 肆意妄為	sih viih miiannh rye
@@ -39892,6 +39946,7 @@ use_preset_vocabulary: true
 芳香療法	piiann hiiann lieuh biiop
 苛捐雜稅	hha yen zzwp xyeih
 苯甲酸鈉	bwnx grap suan gnyeih
+英勇犧牲	vriann iionnx hrie sriann
 英國石油	vriann guwk xxiak iiu
 英姿颯爽	vriann zi swp sriiannx
 英年早逝	vriann nen zaux xxieih
@@ -39993,6 +40048,7 @@ use_preset_vocabulary: true
 蘭斯洛特	lan sie lak ddwk
 蘭新鐵路	lan sin tet loh
 蘭開斯特	lan kwi sie ddwk
+虎口餘生	hox kwux iiw sriann
 虎尾春冰	hox miiix qyn biinn
 虎斑地鶇	hox bran ddih dunn
 虎斑鸚鵡	hox bran vrenn miiox
@@ -40216,6 +40272,7 @@ use_preset_vocabulary: true
 赫福特郡	hrak biiuk ddwk gguunh
 赫耳墨斯	hrak gniix mwk sie
 起早貪黑	kiix zaux twm hwk
+起死回生	kiix six hhuwi sriann
 起落裝置	kiix lak zriiann diih
 超乎尋常	tieu hho ssim xxiiann
 超導電性	tieu ddauh ddenh siannh
@@ -40315,7 +40372,6 @@ use_preset_vocabulary: true
 通信服務	tunn sinh bbiiuk miioh
 通信網絡	tunn sinh miiannx lak
 通商口岸	tunn xiiann kwux nnanh
-通才教育	tunn zzwi grau iiuk
 通用拼音	tunn iionnh brenn vrim
 通用電器	tunn iionnh ddenh krih
 通訊協定	tunn sinh hhep ddennh
@@ -40410,6 +40466,8 @@ use_preset_vocabulary: true
 金田起義	grim dden kiix nnrieh
 金眼鶥雀	grim nnrenx mri ziiak
 金石良言	grim xxiak liiann nniion
+金碧熒煌	grim briak hhuenn hhuann
+金碧輝煌	grim briak huui hhuann
 金翅噪鶥	grim xieh sauh mri
 金色鴉雀	grim sriik vra ziiak
 金蘭之交	grim lan jii grau
@@ -40428,6 +40486,7 @@ use_preset_vocabulary: true
 金頭黑雀	grim ddwu hwk ziiak
 金額絲雀	grim nnrak sii ziiak
 金額雀鶥	grim nnrak ziiak mri
+金髮碧眼	grim biiot briak nnrenx
 釜底抽薪	bbiiox deix tiiu sin
 釜底游魚	bbiiox deix iiu nniiw
 釣魚執法	deuh nniiw jip biiop
@@ -40573,7 +40632,6 @@ use_preset_vocabulary: true
 陽奉陰違	iiann bbiionnx vrim ruui
 陽春白雪	iiann qyn bbrak syet
 隆乳手術	liiunn gniiox xiiux jjyt
-階梯教室	grei tei grau xit
 階梯計價	grei tei geih grah
 階級鬥爭	grei grip dwuh zrenn
 隔壁有耳	grek bek riiux gniix
@@ -40606,6 +40664,7 @@ use_preset_vocabulary: true
 雌性接口	cie siannh ziep kwux
 雌雄同體	cie riiunn ddunn teix
 雌雄異色	cie riiunn iih sriik
+雕楹碧檻	deu iann briak hhramx
 雙人包夾	sronn gnin brau grep
 雙層巴士	sronn zzwnn bra zzriix
 雙曲拱橋	sronn kiiok giionnx ggrieu
@@ -40642,7 +40701,6 @@ use_preset_vocabulary: true
 雷電計圖	luwi ddenh geih ddo
 電信網路	ddenh sinh miiannx loh
 電動玩具	ddenh ddunnx nnuanh ggiioh
-電化教育	ddenh hruah grau iiuk
 電報通知	ddenh bauh tunn die
 電子信箱	ddenh ziix sinh siiann
 電子商務	ddenh ziix xiiann miioh
@@ -40850,6 +40908,7 @@ use_preset_vocabulary: true
 鬥私批修	dwuh si pei siiu
 鬱鬱寡歡	vuut vuut gruax huan
 鬼斧神工	guuix biiox jjin gunn
+鬼由心生	guuix iiu sim sriann
 鬼計多端	guuix geih da duan
 鬼話連篇	guuix hhruaih lien pien
 鬼迷心竅	guuix mei sim keuh
@@ -41109,6 +41168,7 @@ use_preset_vocabulary: true
 口技表演者	kwux ggriex brieux ienx jiax
 古傑拉特邦	gox ggriet lwp ddwk bronn
 古吉拉特邦	gox git lwp ddwk bronn
+古生物學家	gox sriann miit hhrok gra
 可持續發展	kax ddii ssiiok biiot dienx
 史前古器物	sriix zzen gox krih miit
 司馬遼太郎	sii mrax leu taih lann
@@ -41192,6 +41252,7 @@ use_preset_vocabulary: true
 字根通用碼	zziih gwn tunn iionnh mrax
 存款准備金	zzuwn kuanx jynx bbrih grim
 學而優則仕	hhrok gnii viiu zwk zzriix
+宇宙生成論	riiox ddiiuh sriann xxiann luwnh
 安納波利斯	van nwp ba lih sie
 宋武帝劉裕	sonnh miiox deih liiu iioh
 完形心理學	hhuan hhenn sim liix hhrok
@@ -41249,6 +41310,7 @@ use_preset_vocabulary: true
 彭博通訊社	bbrann bak tunn sinh xxiax
 徐霞客遊記	ssiiw hhra krak iiu giih
 得克薩斯州	dwk kwk sat sie jiiu
+微生物學家	miii sriann miit hhrok gra
 德克薩斯州	dwk kwk sat sie jiiu
 德古西加巴	dwk gox sei gra bra
 德謨克拉西	dwk mo kwk lwp sei
@@ -41290,6 +41352,7 @@ use_preset_vocabulary: true
 新西伯利亞	sin sei brak lih vrah
 日本共同社	gnit bwnx ggiionnh ddunn xxiax
 日本松雀鷹	gnit bwnx ssiionn ziiak viinn
+早死早超生	zaux six zaux tieu sriann
 春江花月夜	qyn gronn hrua nnuuot iah
 普羅維登斯	pox la y dwnn sie
 普通老百姓	pox tunn laux brak siannh
@@ -41297,7 +41360,6 @@ use_preset_vocabulary: true
 智慧型手機	dieh hhueih hhenn xiiux giii
 暗綠繡眼鳥	vwmh liiok siiuh nnrenx deux
 最惠國待遇	zuaih hhueih guwk ddwix nniioh
-有教無類法	riiux grau miio lyh biiop
 有條有理地	riiux ddeu riiux liix ddih
 本初子午線	bwnx criiw ziix nnox sienh
 杯酒釋兵權	bwi ziiux xiak briann ggryen
@@ -41654,6 +41716,8 @@ use_preset_vocabulary: true
 黑額山噪鶥	hwk nnrak sren sauh mri
 點對點加密	demx duwih demx gra mrit
 一個中國政策	vit gah diiunn guwk jiannh crek
+一回生二回熟	vit hhuwi sriann gnih hhuwi xxiiuk
+一回生兩回熟	vit hhuwi sriann liiannx hhuwi xxiiuk
 一掬同情之淚	vit giiuk ddunn zziann jii lyh
 一條道走到黑	vit ddeu ddaux zwux dauh hwk
 一步一個腳印	vit bboh vit gah giiak vinh
@@ -41768,7 +41832,6 @@ use_preset_vocabulary: true
 烏滋別克斯坦	vo zii bbriet kwk sie tanx
 特古西加爾巴	ddwk gox sei gra gniex bra
 特拉法加廣場	ddwk lwp biiop gra guannx ddiiann
-瑣羅亞斯德教	suax la vrah sie dwk grau
 甲基安非他命	grap gii van biii ta mriannh
 登機手續櫃檯	dwnn giii xiiux ssiiok ggryh ddwi
 皇太極清太宗	hhuann taih ggiik ciann taih zonn
@@ -41855,7 +41918,7 @@ use_preset_vocabulary: true
 國際戰爭罪法庭	guwk zieih jienh zrenn zzuwix biiop ddenn
 坎貝爾侏儒倉鼠	kwmx baih gniex jiio gniio cann xiiwx
 太陽微系統公司	taih iiann miii hheih tonnh gunn sii
-威斯敏斯特教堂	vuui sie mrinx sie ddwk grau ddann
+威斯敏斯特教堂	vuui sie mrinx sie ddwk grauh ddann
 媒體接口連接器	mwi teix ziep kwux lien ziep krih
 小葵花鳳頭鸚鵡	sieux ggy hrua bbiiunnh ddwu vrenn miiox
 布拉戈維申斯克	boh lwp gua y xin sie kwk

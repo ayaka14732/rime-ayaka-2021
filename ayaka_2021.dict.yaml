@@ -3,7 +3,7 @@
 
 ---
 name: ayaka_2021
-version: "2020.10.15-1"
+version: "2020.10.15-2"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1665,6 +1665,7 @@ import_tables:
 䅢	ziiuh
 䅣	hhuann
 䅥	kat
+䅥	griet
 䅧	vrimh
 䅧	viem
 䅩	jiex
@@ -6604,6 +6605,7 @@ import_tables:
 孎	drok
 孎	diiok
 子	ziix
+孑	griet
 孒	guuot
 孒	guut
 孒	giionnx
@@ -8630,6 +8632,7 @@ import_tables:
 揭	krieih
 揭	kriet
 揭	giiot
+揭	griet
 揮	huui
 揯	gwnnh
 揱	sieu
@@ -17782,6 +17785,7 @@ import_tables:
 訏	hiio
 訐	giiot
 訐	grieih
+訐	griet
 訒	gninh
 訓	huunh
 訔	nnrin
@@ -18522,6 +18526,7 @@ import_tables:
 越	ruuot	99%
 趌	ggrit
 趌	kit
+趌	griet
 趌	git
 趍	ciio
 趍	ddie
@@ -22972,6 +22977,7 @@ import_tables:
 𡤫	kra
 𡤬	vuuak
 𡤯	ly
+𡤼	griet
 𡥀	baux
 𡥆	hauh
 𡥈	grauh
@@ -26321,6 +26327,7 @@ import_tables:
 𨣼	cunn
 𨤐	mie
 𨤩	tiionn
+𨥂	griet
 𨥥	gruannx
 𨥦	zzei
 𨥳	zei
@@ -27635,6 +27642,7 @@ import_tables:
 姥爺	laux ia
 嫪毐	lauh vwix
 子女	ziix niiwx
+孑孓	griet giionnx
 孝弟	hrauh ddeih
 孝悌	hrauh ddeih
 學校	hhrok hhrauh
