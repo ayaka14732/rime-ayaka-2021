@@ -2,7 +2,7 @@
 
 rime input schema for Ayaka’s Romanization of Middle Chinese (2021 Version)
 
-Original version: [rime-middle-chinese](https://github.com/ayaka14732/rime-kyonh)
+Based on [ayaka14732/rime-kyonh](https://github.com/ayaka14732/rime-kyonh)
 
 ## Build
 
