@@ -7,6 +7,7 @@ Based on [ayaka14732/rime-kyonh](https://github.com/ayaka14732/rime-kyonh)
 ## Build
 
 ```sh
+npm install
 mkdir -p cache
 node build/generate_map.js
 python build/build.py

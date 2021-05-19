@@ -6,13 +6,13 @@ schema:
   name: 綾香中古拼音
   version: "2021.03.26"
   author:
-    - polyhedron <biopolyhedron@gmail.com>
     - Ayaka Mikazuki <ayaka@mail.shn.hk>
   description: |-
-    中古漢語拼音方案：綾香中古拼音
+    中古漢語拼音方案：綾香 2021 版中古拼音
   dependencies:
     - luna_pinyin
-    # - ayaka_2021_unspaced
+    - jyut6ping3
+    - ayaka_2021_unspaced
 
 switches:
   - name: ascii_mode
@@ -39,6 +39,7 @@ engine:
     - ascii_segmentor
     - matcher
     - affix_segmentor@luna_pinyin
+    - affix_segmentor@jyut6ping3
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -46,6 +47,7 @@ engine:
     - punct_translator
     - script_translator
     - script_translator@luna_pinyin
+    - script_translator@jyut6ping3
   filters:
     - simplifier
     - uniquifier
@@ -77,10 +79,17 @@ luna_pinyin:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
+jyut6ping3:
+  tag: jyut6ping3
+  dictionary: jyut6ping3
+  prefix: "f"
+  suffix: ";"
+  tips: 〔粵語〕
+
 ayaka_2021_reverse_lookup:
-  tags: [ luna_pinyin ]
+  tags: [ luna_pinyin, jyut6ping3 ]
   overwrite_comment: false
-  dictionary: ayaka_2021  # ayaka_2021_unspaced
+  dictionary: ayaka_2021_unspaced
   comment_format:
     - xform/=/ /
 
@@ -95,3 +104,4 @@ recognizer:
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
     luna_pinyin: "`[a-z]*;?$"
+    jyut6ping3: "f[a-z]*;?$"
