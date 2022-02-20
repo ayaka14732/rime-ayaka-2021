@@ -3,7 +3,7 @@
 
 ---
 name: ayaka_2021.words
-version: "2021.05.15"
+version: "2021.11.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6874,6 +6874,7 @@ use_preset_vocabulary: true
 對蝦	duwih hhra
 對衝	duwih qiionn
 對襟	duwih grim
+對襯	duwih crinh
 對詞	duwih ssii
 對話	duwih hhruaih
 對談	duwih ttam
@@ -7662,6 +7663,7 @@ use_preset_vocabulary: true
 幫派	bann preh
 幫浦	bann pox
 幫腔	bann kronn
+幫襯	bann crinh
 幫辦	bann pprenh
 幫閑	bann hhren
 干休	gan hiiu
@@ -11276,6 +11278,7 @@ use_preset_vocabulary: true
 映入	vriannh gnip
 映演	vriannh ienx
 映照	vriannh jieuh
+映襯	vriannh crinh
 春凳	qyn dwnnh
 春化	qyn hruah
 春困	qyn kuwnh
@@ -21845,6 +21848,9 @@ use_preset_vocabulary: true
 襤褸	lam liiox
 襪子	miiot ziix
 襪帶	miiot daih
+襯墊	crinh demh
+襯線	crinh sienh
+襯衫	crinh sram
 襲擊	ssip gek
 西乃	sei nwix
 西亞	sei vrah
@@ -25381,6 +25387,7 @@ use_preset_vocabulary: true
 陪罪	ppwi ccuwix
 陪聊	ppwi leu
 陪葬	ppwi zannh
+陪襯	ppwi crinh
 陪護	ppwi hhoh
 陪讀	ppwi ttuk
 陪送	ppwi sunnh
@@ -41964,6 +41971,8 @@ use_preset_vocabulary: true
 銷售時點情報系統	sieu xxiiuh xxii demx cciann bauh hheih tonnh
 順我者昌逆我者亡	qqynh nnax jiax qiiann nnriak nnax jiax miiann
 黃花崗七十二烈士	hhuann hrua gann cit xxip gnih liet ccriix
+海森堡不确定性原理	hwix srim baux biit hhrok ttennh siannh nnuuon liix
+馬爾可夫鏈蒙特卡洛	mrax gniex kax biio lien munn ttwk krax lak
 二十年目睹之怪現狀	gnih xxip nen miiuk dox jii grueih hhenh ccriiannh
 司馬昭之心路人皆知	sii mrax jieu jii sim loh gnin grei die
 埃文河畔斯特拉特福	vwi miin hha ppanh sie ttwk lwp ttwk biiuk
